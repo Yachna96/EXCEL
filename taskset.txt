@@ -1,0 +1,8 @@
+1.Emp_Sal.xls
+Find total salary of employee in salary sheet, taking into accordance the data on sheets Basic Pay,HRA and DA.
+
+2.Inventory.xlsx
+Find the total inventory amount based on information given in  Inventory and Lookup Tables sheets.
+
+3.Test Scores.xlsx
+Complete north,south,east and west section sheets and then populate the summary sheet.
